@@ -14,7 +14,10 @@
 
 - [download vscode]
 - [download python](https://www.python.org/downloads/)
-- [check python is install ? => python3 --version]
+- [check python is install ? => ]
+```bash
+python3 --version
+```
 
 **Rules for identifiers**
 
