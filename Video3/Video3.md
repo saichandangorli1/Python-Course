@@ -1,12 +1,12 @@
 # Quick Links
-- (Lists in Python)[#Lists-in-python]
-- (Note For List)[#Note-for-list]
-- (List Slicing)[#List-slicing]
-- (List Methods)[#List-methods]
-- (Tuples in Python)[#Tuples-in-python]
-- (Note For Tuple)[#Note-for-tuple]
-- (Tuple Slicing)[#Tuple-slicing]
-- (Tuple Methods)[#Tuple-methods]
+- (Lists in Python)[#lists-in-python]
+- (Note For List)[#note-for-list]
+- (List Slicing)[#list-slicing]
+- (List Methods)[#list-methods]
+- (Tuples in Python)[#tuples-in-python]
+- (Note For Tuple)[#note-for-tuple]
+- (Tuple Slicing)[#tuple-slicing]
+- (Tuple Methods)[#tuple-methods]
 
 
 
