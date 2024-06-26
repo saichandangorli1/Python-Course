@@ -29,7 +29,7 @@ python3 --version
 
 ## Data types
 
-**1. Interger (int)**
+**1. Integer (int)**
 
 **2. String**
 
@@ -115,8 +115,9 @@ python3 --version
 
 ## Comments
 
-single line comments - #
-multi line comments - """{}"""
+1. single line comments - #
+
+2. multi line comments - """{}"""
 
 ## Types of operators
 
