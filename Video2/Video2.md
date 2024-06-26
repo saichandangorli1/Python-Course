@@ -34,7 +34,9 @@ len(str)
 ### Indexing
 
 **S a i c h a n d a n**
+
 **&uarr; &uarr; &uarr; &uarr; &uarr; &uarr; &uarr; &uarr; &uarr; &uarr; &uarr;**
+
 **0 1 2 3 4 5 6 7 8 9**
 
 #### Rules
@@ -64,7 +66,9 @@ print(str[0 : 2])
 ### Slicing (Negative)
 
 **C h a n d a n**
+
 **&uarr; &uarr; &uarr; &uarr; &uarr; &uarr; &uarr; &uarr;**
+
 -7-6-5-4-3-2-1
 
 str = "Chandan"
